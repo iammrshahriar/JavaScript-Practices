@@ -5,7 +5,6 @@ function multiplicationTable(number) {
     }
 }
 var number = multiplicationTable(1);
-
 /*var number = multiplicationTable(2);
 var number = multiplicationTable(3);
 var number = multiplicationTable(4);
@@ -13,6 +12,5 @@ var number = multiplicationTable(5);
 var number = multiplicationTable(6);
 var number = multiplicationTable(7);
 var number = multiplicationTable(8);
-var number = multiplicationTable(9);*/
-
-var number = multiplicationTable(10);
+var number = multiplicationTable(9);
+var number = multiplicationTable(10);*/

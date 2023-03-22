@@ -14,5 +14,4 @@ var number = multiplicationTable(6);
 var number = multiplicationTable(7);
 var number = multiplicationTable(8);
 var number = multiplicationTable(9);*/
-
 var number = multiplicationTable(10);
