@@ -1,0 +1,7 @@
+function multiplicationTable(num)
+let person = prompt("Please enter your name", "Harry Potter"); {
+    for (let i = 1; i <= 10; i++) {
+        let product = num * i;
+        console.log(num + " x " + i + " = " + product);
+    }
+}
